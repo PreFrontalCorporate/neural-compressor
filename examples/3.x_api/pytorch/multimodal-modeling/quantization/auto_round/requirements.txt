@@ -1,4 +1,4 @@
-transformers>=4.50,<4.52
+transformers>=5.8.0,<5.9
 torch
 tiktoken
 transformers_stream_generator
